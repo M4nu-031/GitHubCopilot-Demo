@@ -5,6 +5,7 @@ Este repositorio contiene una demostración de cómo GitHub Copilot puede explic
 ## Carpeta incluida
 
 - `Explain the code/ExplainTheCode.md` — versión traducida del ejemplo original.
+- `expresiones regulares/RegExInstructions.md` — versión traducida al español de México del ejercicio original.
 
 ## Objetivo
 
